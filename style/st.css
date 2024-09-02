@@ -10,3 +10,24 @@
 .login-button:hover{
     background-color: chartreuse;
 }
+/* benner section */
+/* .carousel-caption{
+    width: 682px;
+    height: 343px;
+    top: 267px;
+    left: 624px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
+
+} */
+.test-color{
+    color: white;
+    font-size:72px ;
+    width:800px;
+}
+.text-banner{
+    color: white;
+    font-size:26px ;
+    /* width:400px ; */
+}
