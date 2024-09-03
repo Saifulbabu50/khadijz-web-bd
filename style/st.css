@@ -83,3 +83,79 @@
     width:70px ;
     height:70px ;
 }
+.rtvsd-ssv{
+    display: flex;
+    justify-content:center;
+
+}
+.eee-ttt{
+    margin-top: 55px;
+}
+.mamamamam{
+    
+
+    background-color: #ccc9c9;
+    width: 285px;
+    height: 285px;
+    align-items: center;
+    margin-top: 55px;
+    padding:55px ;
+    border-top:55px ;
+}
+.fffffff{
+    display: grid;
+    justify-content: first baseline;
+    grid-template-columns: repeat(2,1fr);
+    text-align:center;
+    align-items: center;
+}
+.ggggg{
+    display: flex;
+    justify-content: center;
+}
+.from{
+    gap: 55px;
+    border: 55px;
+    margin-right:55px ;
+}
+.name{
+    background-color: #ccc9c9;
+    width:570px ;
+    height: 72px;
+    gap: 55px;
+    margin-top: 55px; 
+    margin-left:55px ;
+}
+.email{
+    background-color: #ccc9c9;
+    width:570px ;
+    height: 72px;
+    gap: 55px;
+    margin-top: 55px;
+    margin-left:55px ;
+}
+.Subject{
+    background-color: #ccc9c9;
+    width:570px ;
+    height: 72px;
+    gap: 55px;
+    margin-top: 55px;
+    margin-left:55px ;
+}
+.Your-Message{
+    background-color: #ccc9c9;
+    width:570px ;
+    height: 162px;
+    gap: 55px;
+    margin-top: 55px;
+    margin-left:55px ;
+}
+.last-btn{
+    background-color: #B68C5A;
+    color: white;
+    width:570px ;
+    height: 72px;
+    
+    margin-top: 55px;
+    margin-left:55px  ;
+}
